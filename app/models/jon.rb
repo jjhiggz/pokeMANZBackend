@@ -1,0 +1,2 @@
+class Jon < ApplicationRecord
+end
